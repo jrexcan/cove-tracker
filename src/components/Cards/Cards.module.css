@@ -1,0 +1,27 @@
+
+.container{
+    margin: 50px 0;
+}
+
+.textSecondary{
+    color: rgba(0, 255, 234,0.5)!important;
+}
+
+.card{
+    margin: 0 2% !important;
+    background-color: #000!important;
+    color: #f1f1f1!important;
+}
+
+.infected{
+    border-bottom: 10px solid rgba(0, 217, 255, 0.5);
+}
+
+.recovered{
+    border-bottom: 10px solid rgba(60, 255, 0, 0.5);
+}
+
+.deaths{
+    border-bottom: 10px solid rgba(255, 0, 157, 0.5);
+}
+
